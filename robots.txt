@@ -1,0 +1,2 @@
+User-agent: *
+sitemap: http://www.esther-aline-kaiser.com/sitemap.xml

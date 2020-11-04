@@ -1,0 +1,36 @@
+#lang{
+	left: 0px;
+}
+.flag{
+	height: 25px;
+	padding: 5px 15px;
+}
+#titles{
+	margin-top: 50px;
+	border-right: 1px solid grey;
+}
+#hidden_mobile_bar{
+	position: absolute;
+	display: block;
+	right: 5px;
+	top: -45px;
+}
+#hidden_mobile_bar img{
+	height: 40px;
+}
+#header_hr{display: none;}
+#menu_ul_de,#menu_ul_fr{
+	width: 35%;
+	display: none;
+	margin: 0px 0px;
+	right: 0px;
+	margin-left: 62%;
+	text-align: right;
+}
+#menu_ul_de li,#menu_ul_fr li{
+	border-bottom: 1px solid grey;
+	padding: 4px 0px 0px 0px;
+}
+#sub_menu_de,#sub_menu{display: none;}
+#sub_menu{min-width: 180px;}
+#main_navbar{position: relative;}
